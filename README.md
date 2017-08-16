@@ -1,4 +1,4 @@
-File Manager for Yii2 testing
+File Manager for Yii2 hello world
 =====================
 
 Installation
